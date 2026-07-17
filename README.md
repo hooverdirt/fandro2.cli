@@ -2,6 +2,12 @@
 
 A high-performance file search library using Boyer-Moore-Horspool string matching with memory-mapped file I/O. Officially now ported so that it can run on Windows/Mac/Linux. This is my ongoing study project apparently.
 
+## Future plans
+
+I was always planning to remove the Windows specific code (see also Fandro2's readme: https://github.com/hooverdirt/fandro2 ) and this repo is the first official attempt to do so. Maybe in the near future we'll incorporate this into Terminal.Gui or move this to Rust.
+
+As usually, BMH code is hand coded and has survived way too many tests.
+
 
 # Official stuff follows
 
