@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FandroSearch/FandroSearch.csproj" />
+  <Project Path="FandroSearch.Tests/FandroSearch.Tests.csproj" />
+  <Project Path="Fandro.Cli/Fandro.Cli.csproj" />
+</Solution>
